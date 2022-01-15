@@ -1,0 +1,771 @@
+[
+  {
+    "name": "Zachęta1",
+    "handle": "fgdgfdgdfg",
+    "files": ["img/zacheta01.jpg", "img/zacheta02.jpg", "img/zacheta03.jpg"]
+  },
+  {
+    "name": "Zachęta video3",
+    "handle": "asdada",
+    "files": [
+      "https://player.vimeo.com/external/662316049.sd.mp4?s=f405cba16dd4970ef4f20a008173adebccb1dac6&profile_id=164",
+      "vid/zacheta02.mp4"
+    ]
+  },
+  {
+    "name": "Zachęta2",
+    "handle": "dbvbxbcx",
+    "files": ["img/zacheta02.jpg", "img/zacheta01.jpg", "img/zacheta03.jpg"]
+  },
+  {
+    "name": "Zachęta3",
+    "handle": "bbdgsdgd",
+    "files": ["img/zacheta03.jpg", "img/zacheta01.jpg", "img/zacheta02.jpg"]
+  },
+  {
+    "name": "Bałagan",
+    "handle": "asdada",
+    "files": ["vid/balagan.mp4"]
+  },
+  {
+    "name": "Jassmine1",
+    "handle": "bbxbvcb",
+    "files": ["img/jassmine01.jpg", "img/jassmine02.jpg", "img/jassmine03.jpg"]
+  },
+  {
+    "name": "Jassmine2",
+    "handle": "bxbxcbxcb",
+    "files": ["img/jassmine02.jpg", "img/jassmine02.jpg", "img/jassmine03.jpg"]
+  },
+  {
+    "name": "Zachęta video1",
+    "handle": "daada",
+    "files": ["vid/zacheta01.mp4", "vid/zacheta02.mp4"]
+  },
+  {
+    "name": "Jassmine3",
+    "handle": ";kl;kl;",
+    "files": ["img/jassmine03.jpg", "img/jassmine02.jpg", "img/jassmine03.jpg"]
+  },
+  {
+    "name": "Kalendar1",
+    "handle": "kjhdhd",
+    "files": ["img/kalendar01.jpg", "img/kalendar02.jpg", "img/kalendar03.jpg"]
+  },
+  {
+    "name": "Biennale",
+    "handle": "fadasdfa",
+    "files": ["vid/biennale01.mp4"]
+  },
+  {
+    "name": "Kalendar2",
+    "handle": "jkhk7",
+    "files": ["img/kalendar02.jpg", "img/kalendar02.jpg", "img/kalendar03.jpg"]
+  },
+  {
+    "name": "Kalendar3",
+    "handle": "dadanht",
+    "files": ["img/kalendar03.jpg", "img/kalendar02.jpg", "img/kalendar03.jpg"]
+  },
+  {
+    "name": "Sokół video 1",
+    "handle": "asfadas4",
+    "files": ["vid/sokol01.mp4"]
+  },
+  {
+    "name": "Miejsce1",
+    "handle": "adanbfgn",
+    "files": ["img/miejsce01.jpg", "img/miejsce02.jpg", "img/miejsce03.jpg"]
+  },
+  {
+    "name": "Zachęta video2",
+    "handle": "adagwsgs",
+    "files": ["vid/zacheta02.mp4", "vid/zacheta02.mp4"]
+  },
+  {
+    "name": "Miejsce2",
+    "handle": "afaas",
+    "files": ["img/miejsce02.jpg", "img/miejsce02.jpg", "img/miejsce03.jpg"]
+  },
+  {
+    "name": "Miejsce3",
+    "handle": "adasdasda",
+    "files": ["img/miejsce03.jpg", "img/miejsce02.jpg", "img/miejsce03.jpg"]
+  },
+  {
+    "name": "Wawa1",
+    "handle": "dghdgdg",
+    "files": ["vid/wawa01.mp4"]
+  },
+  {
+    "name": "Wawa2",
+    "handle": "aqwd",
+    "files": ["vid/wawa02.mp4"]
+  },
+  {
+    "name": "MISBHV1",
+    "handle": "hdhrhert",
+    "files": ["img/misbhv01.jpg", "img/misbhv01.jpg"]
+  },
+  {
+    "name": "MISBHV2",
+    "handle": "",
+    "files": ["img/misbhv02.jpg", "img/misbhv01.jpg"]
+  },
+  {
+    "name": "Pro8l3m1",
+    "handle": "",
+    "files": ["img/pro8l3m01.jpg", "img/pro8l3m02.jpg", "img/pro8l3m03.jpg"]
+  },
+  {
+    "name": "Zachęta video2",
+    "handle": "",
+    "files": ["vid/zacheta02_2.mp4", "vid/zacheta02.mp4"]
+  },
+  {
+    "name": "Pro8l3m2",
+    "handle": "",
+    "files": ["img/pro8l3m02.jpg", "img/pro8l3m02.jpg", "img/pro8l3m03.jpg"]
+  },
+  {
+    "name": "Pro8l3m3",
+    "handle": "",
+    "files": ["img/pro8l3m03.jpg", "img/pro8l3m02.jpg", "img/pro8l3m03.jpg"]
+  },
+  {
+    "name": "Zachęta video4",
+    "handle": "",
+    "files": ["vid/zacheta04.mp4", "vid/zacheta02.mp4"]
+  },
+  {
+    "name": "Taconafide",
+    "handle": "",
+    "files": ["img/taconafide01.jpg"]
+  },
+  {
+    "name": "Warsaw galery",
+    "handle": "",
+    "files": ["img/galery01.jpg"]
+  },
+  {
+    "name": "Sokół1",
+    "handle": "",
+    "files": ["img/sokol01.jpg", "img/sokol02.jpg", "img/sokol03.jpg"]
+  },
+  {
+    "name": "Zachęta video4",
+    "handle": "",
+    "files": ["vid/zacheta04_2.mp4", "vid/zacheta02.mp4"]
+  },
+  {
+    "name": "Sokół2",
+    "handle": "",
+    "files": ["img/sokol02.jpg", "img/sokol02.jpg", "img/sokol03.jpg"]
+  },
+  {
+    "name": "Sokół3",
+    "handle": "",
+    "files": ["img/sokol03.jpg", "img/sokol02.jpg", "img/sokol03.jpg"]
+  },
+  {
+    "name": "Sokół video 2",
+    "handle": "",
+    "files": ["vid/sokol02.mp4"]
+  },
+  {
+    "name": "WWF1",
+    "handle": "",
+    "files": ["img/wwf01.jpg", "img/wwf02.jpg", "img/wwf03.jpg"]
+  },
+  {
+    "name": "WWF2",
+    "handle": "",
+    "files": ["img/wwf02.jpg", "img/wwf02.jpg", "img/wwf03.jpg"]
+  },
+  {
+    "name": "WWF3",
+    "handle": "",
+    "files": ["img/wwf03.jpg", "img/wwf02.jpg", "img/wwf03.jpg"]
+  },
+  {
+    "name": "Narodowa Zachęta",
+    "handle": "",
+    "files": ["img/narodowa01.jpg", "img/narodowa02.jpg"]
+  },
+  {
+    "name": "Narodowa Zachęta vid 1",
+    "handle": "",
+    "files": ["vid/narodowa01.mp4"]
+  },
+  {
+    "name": "Narodowa Zachęta vid 2",
+    "handle": "",
+    "files": ["vid/narodowa02.mp4"]
+  },
+
+  {
+    "name": "Zachęta1",
+    "handle": "",
+    "files": ["img/zacheta01.jpg", "img/zacheta02.jpg", "img/zacheta03.jpg"]
+  },
+  {
+    "name": "Zachęta2",
+    "handle": "",
+    "files": ["img/zacheta02.jpg", "img/zacheta01.jpg", "img/zacheta03.jpg"]
+  },
+  {
+    "name": "Narodowa Zachęta vid 2",
+    "handle": "",
+    "files": ["vid/narodowa02_2.mp4"]
+  },
+  {
+    "name": "Zachęta3",
+    "handle": "",
+    "files": ["img/zacheta03.jpg", "img/zacheta01.jpg", "img/zacheta02.jpg"]
+  },
+  {
+    "name": "Zachęta video1",
+    "handle": "",
+    "files": ["vid/zacheta01_2.mp4", "vid/zacheta02.mp4"]
+  },
+  {
+    "name": "Bałagan",
+    "handle": "",
+    "files": ["vid/balagan_2.mp4"]
+  },
+  {
+    "name": "Jassmine1",
+    "handle": "",
+    "files": ["img/jassmine01.jpg", "img/jassmine02.jpg", "img/jassmine03.jpg"]
+  },
+  {
+    "name": "Jassmine2",
+    "handle": "",
+    "files": ["img/jassmine02.jpg", "img/jassmine02.jpg", "img/jassmine03.jpg"]
+  },
+  {
+    "name": "Jassmine3",
+    "handle": "",
+    "files": ["img/jassmine03.jpg", "img/jassmine02.jpg", "img/jassmine03.jpg"]
+  },
+  {
+    "name": "Kalendar1",
+    "handle": "",
+    "files": ["img/kalendar01.jpg", "img/kalendar02.jpg", "img/kalendar03.jpg"]
+  },
+  {
+    "name": "Narodowa Zachęta vid 1",
+    "handle": "",
+    "files": ["vid/narodowa01_2.mp4"]
+  },
+  {
+    "name": "Kalendar2",
+    "handle": "",
+    "files": ["img/kalendar02.jpg", "img/kalendar02.jpg", "img/kalendar03.jpg"]
+  },
+  {
+    "name": "Kalendar3",
+    "handle": "",
+    "files": ["img/kalendar03.jpg", "img/kalendar02.jpg", "img/kalendar03.jpg"]
+  },
+  {
+    "name": "Zachęta video3",
+    "handle": "",
+    "files": ["vid/zacheta03_2.mp4", "vid/zacheta02.mp4"]
+  },
+  {
+    "name": "Miejsce1",
+    "handle": "",
+    "files": ["img/miejsce01.jpg", "img/miejsce02.jpg", "img/miejsce03.jpg"]
+  },
+  {
+    "name": "Miejsce2",
+    "handle": "",
+    "files": ["img/miejsce02.jpg", "img/miejsce02.jpg", "img/miejsce03.jpg"]
+  },
+  {
+    "name": "Miejsce3",
+    "handle": "",
+    "files": ["img/miejsce03.jpg", "img/miejsce02.jpg", "img/miejsce03.jpg"]
+  },
+  {
+    "name": "Wawa1",
+    "handle": "",
+    "files": ["vid/wawa01_2.mp4"]
+  },
+  {
+    "name": "MISBHV1",
+    "handle": "",
+    "files": ["img/misbhv01.jpg", "img/misbhv01.jpg"]
+  },
+  {
+    "name": "MISBHV2",
+    "handle": "",
+    "files": ["img/misbhv02.jpg", "img/misbhv01.jpg"]
+  },
+  {
+    "name": "Pro8l3m1",
+    "handle": "",
+    "files": ["img/pro8l3m01.jpg", "img/pro8l3m02.jpg", "img/pro8l3m03.jpg"]
+  },
+  {
+    "name": "Wawa2",
+    "handle": "",
+    "files": ["vid/wawa02_2.mp4"]
+  },
+  {
+    "name": "Pro8l3m2",
+    "handle": "",
+    "files": ["img/pro8l3m02.jpg", "img/pro8l3m02.jpg", "img/pro8l3m03.jpg"]
+  },
+  {
+    "name": "Pro8l3m3",
+    "handle": "",
+    "files": ["img/pro8l3m03.jpg", "img/pro8l3m02.jpg", "img/pro8l3m03.jpg"]
+  },
+  {
+    "name": "Sokół video 2",
+    "handle": "",
+    "files": ["vid/sokol02_2.mp4"]
+  },
+  {
+    "name": "Taconafide",
+    "handle": "",
+    "files": ["img/taconafide01.jpg"]
+  },
+  {
+    "name": "Warsaw galery",
+    "handle": "",
+    "files": ["img/galery01.jpg"]
+  },
+  {
+    "name": "Sokół1",
+    "handle": "",
+    "files": ["img/sokol01.jpg", "img/sokol02.jpg", "img/sokol03.jpg"]
+  },
+  {
+    "name": "Sokół2",
+    "handle": "",
+    "files": ["img/sokol02.jpg", "img/sokol02.jpg", "img/sokol03.jpg"]
+  },
+  {
+    "name": "Sokół3",
+    "handle": "",
+    "files": ["img/sokol03.jpg", "img/sokol02.jpg", "img/sokol03.jpg"]
+  },
+  {
+    "name": "Sokół video 1",
+    "handle": "",
+    "files": ["vid/sokol01_2.mp4"]
+  },
+
+  {
+    "name": "WWF1",
+    "handle": "",
+    "files": ["img/wwf01.jpg", "img/wwf02.jpg", "img/wwf03.jpg"]
+  },
+  {
+    "name": "WWF2",
+    "handle": "",
+    "files": ["img/wwf02.jpg", "img/wwf02.jpg", "img/wwf03.jpg"]
+  },
+  {
+    "name": "WWF3",
+    "handle": "",
+    "files": ["img/wwf03.jpg", "img/wwf02.jpg", "img/wwf03.jpg"]
+  },
+  {
+    "name": "Narodowa Zachęta",
+    "handle": "",
+    "files": ["img/narodowa01.jpg", "img/narodowa02.jpg"]
+  },
+
+  {
+    "name": "Biennale",
+    "handle": "",
+    "files": ["vid/biennale01_2.mp4"]
+  },
+  {
+    "name": "Zachęta1",
+    "handle": "fgdgfdgdfg",
+    "files": ["img/zacheta01.jpg", "img/zacheta02.jpg", "img/zacheta03.jpg"]
+  },
+  {
+    "name": "Zachęta video3",
+    "handle": "asdada",
+    "files": ["vid/zacheta03_2.mp4", "vid/zacheta02.mp4"]
+  },
+  {
+    "name": "Zachęta2",
+    "handle": "dbvbxbcx",
+    "files": ["img/zacheta02.jpg", "img/zacheta01.jpg", "img/zacheta03.jpg"]
+  },
+  {
+    "name": "Zachęta3",
+    "handle": "bbdgsdgd",
+    "files": ["img/zacheta03.jpg", "img/zacheta01.jpg", "img/zacheta02.jpg"]
+  },
+  {
+    "name": "Bałagan",
+    "handle": "asdada",
+    "files": ["vid/balagan.mp4"]
+  },
+  {
+    "name": "Jassmine1",
+    "handle": "bbxbvcb",
+    "files": ["img/jassmine01.jpg", "img/jassmine02.jpg", "img/jassmine03.jpg"]
+  },
+  {
+    "name": "Jassmine2",
+    "handle": "bxbxcbxcb",
+    "files": ["img/jassmine02.jpg", "img/jassmine02.jpg", "img/jassmine03.jpg"]
+  },
+  {
+    "name": "Zachęta video1",
+    "handle": "daada",
+    "files": ["vid/zacheta01.mp4", "vid/zacheta02.mp4"]
+  },
+  {
+    "name": "Jassmine3",
+    "handle": ";kl;kl;",
+    "files": ["img/jassmine03.jpg", "img/jassmine02.jpg", "img/jassmine03.jpg"]
+  },
+  {
+    "name": "Kalendar1",
+    "handle": "kjhdhd",
+    "files": ["img/kalendar01.jpg", "img/kalendar02.jpg", "img/kalendar03.jpg"]
+  },
+  {
+    "name": "Biennale",
+    "handle": "fadasdfa",
+    "files": ["vid/biennale01.mp4"]
+  },
+  {
+    "name": "Kalendar2",
+    "handle": "jkhk7",
+    "files": ["img/kalendar02.jpg", "img/kalendar02.jpg", "img/kalendar03.jpg"]
+  },
+  {
+    "name": "Kalendar3",
+    "handle": "dadanht",
+    "files": ["img/kalendar03.jpg", "img/kalendar02.jpg", "img/kalendar03.jpg"]
+  },
+  {
+    "name": "Sokół video 1",
+    "handle": "asfadas4",
+    "files": ["vid/sokol01.mp4"]
+  },
+  {
+    "name": "Miejsce1",
+    "handle": "adanbfgn",
+    "files": ["img/miejsce01.jpg", "img/miejsce02.jpg", "img/miejsce03.jpg"]
+  },
+  {
+    "name": "Zachęta video2",
+    "handle": "adagwsgs",
+    "files": ["vid/zacheta02.mp4", "vid/zacheta02.mp4"]
+  },
+  {
+    "name": "Miejsce2",
+    "handle": "afaas",
+    "files": ["img/miejsce02.jpg", "img/miejsce02.jpg", "img/miejsce03.jpg"]
+  },
+  {
+    "name": "Miejsce3",
+    "handle": "adasdasda",
+    "files": ["img/miejsce03.jpg", "img/miejsce02.jpg", "img/miejsce03.jpg"]
+  },
+  {
+    "name": "Wawa1",
+    "handle": "dghdgdg",
+    "files": ["vid/wawa01.mp4"]
+  },
+  {
+    "name": "Wawa2",
+    "handle": "aqwd",
+    "files": ["vid/wawa02.mp4"]
+  },
+  {
+    "name": "MISBHV1",
+    "handle": "hdhrhert",
+    "files": ["img/misbhv01.jpg", "img/misbhv01.jpg"]
+  },
+  {
+    "name": "MISBHV2",
+    "handle": "",
+    "files": ["img/misbhv02.jpg", "img/misbhv01.jpg"]
+  },
+  {
+    "name": "Pro8l3m1",
+    "handle": "",
+    "files": ["img/pro8l3m01.jpg", "img/pro8l3m02.jpg", "img/pro8l3m03.jpg"]
+  },
+  {
+    "name": "Zachęta video2",
+    "handle": "",
+    "files": ["vid/zacheta02_2.mp4", "vid/zacheta02.mp4"]
+  },
+  {
+    "name": "Pro8l3m2",
+    "handle": "",
+    "files": ["img/pro8l3m02.jpg", "img/pro8l3m02.jpg", "img/pro8l3m03.jpg"]
+  },
+  {
+    "name": "Pro8l3m3",
+    "handle": "",
+    "files": ["img/pro8l3m03.jpg", "img/pro8l3m02.jpg", "img/pro8l3m03.jpg"]
+  },
+  {
+    "name": "Zachęta video4",
+    "handle": "",
+    "files": ["vid/zacheta04.mp4", "vid/zacheta02.mp4"]
+  },
+  {
+    "name": "Taconafide",
+    "handle": "",
+    "files": ["img/taconafide01.jpg"]
+  },
+  {
+    "name": "Warsaw galery",
+    "handle": "",
+    "files": ["img/galery01.jpg"]
+  },
+  {
+    "name": "Sokół1",
+    "handle": "",
+    "files": ["img/sokol01.jpg", "img/sokol02.jpg", "img/sokol03.jpg"]
+  },
+  {
+    "name": "Zachęta video4",
+    "handle": "",
+    "files": ["vid/zacheta04_2.mp4", "vid/zacheta02.mp4"]
+  },
+  {
+    "name": "Sokół2",
+    "handle": "",
+    "files": ["img/sokol02.jpg", "img/sokol02.jpg", "img/sokol03.jpg"]
+  },
+  {
+    "name": "Sokół3",
+    "handle": "",
+    "files": ["img/sokol03.jpg", "img/sokol02.jpg", "img/sokol03.jpg"]
+  },
+  {
+    "name": "Sokół video 2",
+    "handle": "",
+    "files": ["vid/sokol02.mp4"]
+  },
+  {
+    "name": "WWF1",
+    "handle": "",
+    "files": ["img/wwf01.jpg", "img/wwf02.jpg", "img/wwf03.jpg"]
+  },
+  {
+    "name": "WWF2",
+    "handle": "",
+    "files": ["img/wwf02.jpg", "img/wwf02.jpg", "img/wwf03.jpg"]
+  },
+  {
+    "name": "WWF3",
+    "handle": "",
+    "files": ["img/wwf03.jpg", "img/wwf02.jpg", "img/wwf03.jpg"]
+  },
+  {
+    "name": "Narodowa Zachęta",
+    "handle": "",
+    "files": ["img/narodowa01.jpg", "img/narodowa02.jpg"]
+  },
+  {
+    "name": "Narodowa Zachęta vid 1",
+    "handle": "",
+    "files": ["vid/narodowa01.mp4"]
+  },
+  {
+    "name": "Narodowa Zachęta vid 2",
+    "handle": "",
+    "files": ["vid/narodowa02.mp4"]
+  },
+
+  {
+    "name": "Zachęta1",
+    "handle": "",
+    "files": ["img/zacheta01.jpg", "img/zacheta02.jpg", "img/zacheta03.jpg"]
+  },
+  {
+    "name": "Zachęta2",
+    "handle": "",
+    "files": ["img/zacheta02.jpg", "img/zacheta01.jpg", "img/zacheta03.jpg"]
+  },
+  {
+    "name": "Narodowa Zachęta vid 2",
+    "handle": "",
+    "files": ["vid/narodowa02_2.mp4"]
+  },
+  {
+    "name": "Zachęta3",
+    "handle": "",
+    "files": ["img/zacheta03.jpg", "img/zacheta01.jpg", "img/zacheta02.jpg"]
+  },
+  {
+    "name": "Zachęta video1",
+    "handle": "",
+    "files": ["vid/zacheta01_2.mp4", "vid/zacheta02.mp4"]
+  },
+  {
+    "name": "Bałagan",
+    "handle": "",
+    "files": ["vid/balagan_2.mp4"]
+  },
+  {
+    "name": "Jassmine1",
+    "handle": "",
+    "files": ["img/jassmine01.jpg", "img/jassmine02.jpg", "img/jassmine03.jpg"]
+  },
+  {
+    "name": "Jassmine2",
+    "handle": "",
+    "files": ["img/jassmine02.jpg", "img/jassmine02.jpg", "img/jassmine03.jpg"]
+  },
+  {
+    "name": "Jassmine3",
+    "handle": "",
+    "files": ["img/jassmine03.jpg", "img/jassmine02.jpg", "img/jassmine03.jpg"]
+  },
+  {
+    "name": "Kalendar1",
+    "handle": "",
+    "files": ["img/kalendar01.jpg", "img/kalendar02.jpg", "img/kalendar03.jpg"]
+  },
+  {
+    "name": "Narodowa Zachęta vid 1",
+    "handle": "",
+    "files": ["vid/narodowa01_2.mp4"]
+  },
+  {
+    "name": "Kalendar2",
+    "handle": "",
+    "files": ["img/kalendar02.jpg", "img/kalendar02.jpg", "img/kalendar03.jpg"]
+  },
+  {
+    "name": "Kalendar3",
+    "handle": "",
+    "files": ["img/kalendar03.jpg", "img/kalendar02.jpg", "img/kalendar03.jpg"]
+  },
+  {
+    "name": "Zachęta video3",
+    "handle": "",
+    "files": ["vid/zacheta03_2.mp4", "vid/zacheta02.mp4"]
+  },
+  {
+    "name": "Miejsce1",
+    "handle": "",
+    "files": ["img/miejsce01.jpg", "img/miejsce02.jpg", "img/miejsce03.jpg"]
+  },
+  {
+    "name": "Miejsce2",
+    "handle": "",
+    "files": ["img/miejsce02.jpg", "img/miejsce02.jpg", "img/miejsce03.jpg"]
+  },
+  {
+    "name": "Miejsce3",
+    "handle": "",
+    "files": ["img/miejsce03.jpg", "img/miejsce02.jpg", "img/miejsce03.jpg"]
+  },
+  {
+    "name": "Wawa1",
+    "handle": "",
+    "files": ["vid/wawa01_2.mp4"]
+  },
+  {
+    "name": "MISBHV1",
+    "handle": "",
+    "files": ["img/misbhv01.jpg", "img/misbhv01.jpg"]
+  },
+  {
+    "name": "MISBHV2",
+    "handle": "",
+    "files": ["img/misbhv02.jpg", "img/misbhv01.jpg"]
+  },
+  {
+    "name": "Pro8l3m1",
+    "handle": "",
+    "files": ["img/pro8l3m01.jpg", "img/pro8l3m02.jpg", "img/pro8l3m03.jpg"]
+  },
+  {
+    "name": "Wawa2",
+    "handle": "",
+    "files": ["vid/wawa02_2.mp4"]
+  },
+  {
+    "name": "Pro8l3m2",
+    "handle": "",
+    "files": ["img/pro8l3m02.jpg", "img/pro8l3m02.jpg", "img/pro8l3m03.jpg"]
+  },
+  {
+    "name": "Pro8l3m3",
+    "handle": "",
+    "files": ["img/pro8l3m03.jpg", "img/pro8l3m02.jpg", "img/pro8l3m03.jpg"]
+  },
+  {
+    "name": "Sokół video 2",
+    "handle": "",
+    "files": ["vid/sokol02_2.mp4"]
+  },
+  {
+    "name": "Taconafide",
+    "handle": "",
+    "files": ["img/taconafide01.jpg"]
+  },
+  {
+    "name": "Warsaw galery",
+    "handle": "",
+    "files": ["img/galery01.jpg"]
+  },
+  {
+    "name": "Sokół1",
+    "handle": "",
+    "files": ["img/sokol01.jpg", "img/sokol02.jpg", "img/sokol03.jpg"]
+  },
+  {
+    "name": "Sokół2",
+    "handle": "",
+    "files": ["img/sokol02.jpg", "img/sokol02.jpg", "img/sokol03.jpg"]
+  },
+  {
+    "name": "Sokół3",
+    "handle": "",
+    "files": ["img/sokol03.jpg", "img/sokol02.jpg", "img/sokol03.jpg"]
+  },
+  {
+    "name": "Sokół video 1",
+    "handle": "",
+    "files": ["vid/sokol01_2.mp4"]
+  },
+
+  {
+    "name": "WWF1",
+    "handle": "",
+    "files": ["img/wwf01.jpg", "img/wwf02.jpg", "img/wwf03.jpg"]
+  },
+  {
+    "name": "WWF2",
+    "handle": "",
+    "files": ["img/wwf02.jpg", "img/wwf02.jpg", "img/wwf03.jpg"]
+  },
+  {
+    "name": "WWF3",
+    "handle": "",
+    "files": ["img/wwf03.jpg", "img/wwf02.jpg", "img/wwf03.jpg"]
+  },
+  {
+    "name": "Narodowa Zachęta",
+    "handle": "",
+    "files": ["img/narodowa01.jpg", "img/narodowa02.jpg"]
+  },
+
+  {
+    "name": "Biennale",
+    "handle": "",
+    "files": ["vid/biennale01_2.mp4"]
+  }
+]
