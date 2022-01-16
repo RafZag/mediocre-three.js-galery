@@ -85,38 +85,45 @@ class projectPlane {
         this.vid.preload = "auto";
         this.vid.setAttribute("playsinline", "");
         this.vid.setAttribute("crossorigin", "anonymous");
-        this.vid.addEventListener('loadedmetadata', this.resize.bind(this), false);
+        // this.vid.setAttribute("poster", "assets/poster.jpg");
         this.texture = new THREE.VideoTexture(this.vid);
-        this.texture.needsUpdate = true
+        let source = document.createElement("source");
+        source.type = "video/mp4";
+        // source.src = this.image;
 
-        if (Hls.isSupported()) {
-            var hls = new Hls();
-            hls.loadSource("https://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8");
-            hls.attachMedia(this.vid);
+        fetch(this.image, {
+            method: 'HEAD'
+        }).then((response) => {
+            // console.log(response)
+            source.src = response.url
+            this.vid.appendChild(source);
+        });
 
-            hls.on(Hls.Events.FRAG_BUFFERED, () => {
-                // console.log(this.vid.src);
-                this.videoLoaded = true;
-                this.material.map = this.texture;
-                this.playVideo();
-            });
+        this.playVideo();
+        this.vid.addEventListener('loadedmetadata', this.resize.bind(this), false);
+        // // this.vid.addEventListener('canplaythrough', () => {
+        // //     if (this.vid.buffered.end(0) >= this.vid.duration / 4) {
+        // //         this.videoLoaded = true;
+        // //         this.playVideo();
+        // //         // if (this.vid.muted) this.vid.muted = false;
+        // //     }
+        // // }, false);
 
-        } else if (video.canPlayType("application/vnd.apple.mpegurl")) {
+        // this.vid.addEventListener("progress", () => {
+        //     try {
+        //         //if (Math.round(this.vid.buffered.end(0)) / Math.round(this.vid.seekable.end(0)) >= 0.25) {
+        //         this.videoLoaded = true;
+        //         // document.addEventListener("click", () => {
+        //         this.playVideo()
+        //         // });
 
-            console.log("HLS not supported");
-            this.material.map = this.texture;
-            this.videoLoaded = true;
-            this.playVideo();
-        }
-
-        // 
-        // this.vid.addEventListener('canplaythrough', () => {
-        //     // if (this.vid.buffered.end(0) >= this.vid.duration / 4) {
-        //     this.videoLoaded = true;
-        //     this.playVideo();
-        //     // if (this.vid.muted) this.vid.muted = false;
-        //     // }
-        // }, false);
+        //         //this.mainVideoItem.play();
+        //         //}
+        //     } catch (err) {
+        //         console.log("load err " + err);
+        //         console.log(this.vid.seekable)
+        //     }
+        // })
 
         this.vid.loop = true;
         this.vid.muted = true;
