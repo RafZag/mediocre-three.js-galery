@@ -85,11 +85,9 @@ class projectPlane {
         this.vid.preload = "auto";
         this.vid.setAttribute("playsinline", "");
         this.vid.setAttribute("crossorigin", "anonymous");
-        // this.vid.setAttribute("poster", "assets/poster.jpg");
         this.texture = new THREE.VideoTexture(this.vid);
         let source = document.createElement("source");
         source.type = "video/mp4";
-        // source.src = this.image;
 
         fetch(this.image, {
             method: 'HEAD'
@@ -101,29 +99,17 @@ class projectPlane {
 
         this.playVideo();
         this.vid.addEventListener('loadedmetadata', this.resize.bind(this), false);
-        // // this.vid.addEventListener('canplaythrough', () => {
-        // //     if (this.vid.buffered.end(0) >= this.vid.duration / 4) {
-        // //         this.videoLoaded = true;
-        // //         this.playVideo();
-        // //         // if (this.vid.muted) this.vid.muted = false;
-        // //     }
-        // // }, false);
 
-        // this.vid.addEventListener("progress", () => {
-        //     try {
-        //         //if (Math.round(this.vid.buffered.end(0)) / Math.round(this.vid.seekable.end(0)) >= 0.25) {
-        //         this.videoLoaded = true;
-        //         // document.addEventListener("click", () => {
-        //         this.playVideo()
-        //         // });
+        this.vid.addEventListener("progress", () => {
+            try {
 
-        //         //this.mainVideoItem.play();
-        //         //}
-        //     } catch (err) {
-        //         console.log("load err " + err);
-        //         console.log(this.vid.seekable)
-        //     }
-        // })
+                this.videoLoaded = true;
+                this.playVideo();
+
+            } catch (err) {
+                console.log("load err " + err);
+            }
+        })
 
         this.vid.loop = true;
         this.vid.muted = true;
